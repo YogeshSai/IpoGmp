@@ -1,6 +1,7 @@
 **IPO Watch & WhatsApp Notifier**
 
-Stay ahead of the market! This Python script scrapes real-time IPO Grey Market Premium (GMP) data from ipowatch.in and delivers instant, detailed updates directly to your WhatsApp via the Green API.
+Stay ahead of the market! 
+This Python script scrapes real-time IPO Grey Market Premium (GMP) data from **ipowatch.in** and delivers instant, detailed updates directly to your WhatsApp via the Green API.
 
 **Features**
 - **Automated IPO GMP Scraping:** Fetches the latest GMP for current IPOs.
